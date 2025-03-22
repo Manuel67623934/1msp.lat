@@ -104,4 +104,16 @@ VALUES
     (9, 9, '2023-11-09', 180.20, 'Tarjeta de débito'),
     (10, 10, '2023-11-10', 250.75, 'PayPal');
 ```
+# Common querys
+```
 
+USE "acme-company";
+
+SELECT *
+FROM Clientes;
+
+USE "acme-company";
+
+SELECT *
+FROM Salarios;
+```
