@@ -1,2 +1,8 @@
-# 1msp.lat
-Commands and notes for MSQLS, Acronis, Sophos, Workspace
+# MSSQL
+
+*Create bd for test acronis backup advanced*
+```
+
+
+
+```
